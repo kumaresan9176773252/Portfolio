@@ -1,0 +1,15 @@
+.about {
+    width: 90%;
+    margin: auto;
+    padding: 3rem;
+    border: 1px solid #fff;
+    position: relative;
+   
+}
+.about .content {
+    text-align: center;
+}
+.about .content h1{
+    padding-bottom: 1rem;
+}
+
